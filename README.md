@@ -1,3 +1,3 @@
 # terraform-test
 
-A terragrunt repository sample
+A terragrunt repository example
