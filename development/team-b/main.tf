@@ -1,4 +1,4 @@
-resource "aws_iam_role" "iam_for_lambda_2" {
+resource "aws_iam_role" "iam_for_lambda_b" {
   name = "iam_for_lambda_2"
 
   assume_role_policy = <<EOF
